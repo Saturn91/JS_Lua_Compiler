@@ -1,0 +1,24 @@
+{
+  "name": "js-lua-compiler",
+  "version": "1.0.0",
+  "description": "A basic Lua compiler used for a potential future fantasy web console. Will only support certain features of Lua. This is Project is mainly for learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saturn91/js-lua-compiler-npm-package.git"
+  },
+  "keywords": [
+    "Lua",
+    "web",
+    "compiler"
+  ],
+  "author": "saturn91.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saturn91/js-lua-compiler-npm-package/issues"
+  },
+  "homepage": "https://github.com/Saturn91/js-lua-compiler-npm-package#readme"
+}
